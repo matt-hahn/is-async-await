@@ -2,6 +2,7 @@
   "name": "is-async-await",
   "version": "1.0.0",
   "description": "Function to check if the argument is a function that uses async / await",
+  "keywords": ["node", "is async function", "is async await", "async await", "async", "await"],
   "main": "index.js",
   "repository": "https://github.com/matt-hahn/is-async-await.git",
   "author": "Matt Hahn <matt.hahn@matthahndesign.com>",
