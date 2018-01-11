@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/11332183/34825261-16fc4b30-f6d2-11e7-9ae4-1c4f036d9048.jpg" width="200" style="margin-bottom: 40px;" />
+
 # is-async-await
 
 A small function that checks if the passed in argument is an async function
